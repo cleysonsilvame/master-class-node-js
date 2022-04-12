@@ -1,0 +1,27 @@
+{
+  "name": "master-class-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon --watch src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleysonsilvame/master-class-node-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleysonsilvame/master-class-node-js/issues"
+  },
+  "homepage": "https://github.com/cleysonsilvame/master-class-node-js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
